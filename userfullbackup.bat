@@ -1,0 +1,1 @@
+sqlcmd -S {sql server instance} -U {username} -P {password} -i userfullbackup.sql
