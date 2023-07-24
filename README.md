@@ -6,7 +6,7 @@ ExpressBackup uses the expressmaint stored procedure developed by Jasper Smith. 
 www.sqldbatips.com website is defunct and now redirects to a pr0n site.  
 
 The stored procedure requires expanded access rights on the server including xp_cmdshell and Ole Automation 
-Procedures.  A script to update the server configuraiton with support is included in enableoptions.sql.
+Procedures.  A script to update the server configuration with support is included in enableoptions.sql.
 
 The expressmaint.sql script may be used to create the stored procedure. Create the stored procedure in the
 master database.
